@@ -6,7 +6,11 @@ Sec- 7A(2)
 
 Uni- UITS
 
+Course Code- CSE 413
+
 Course-Simulation and Modeling Lab
+
+Covered Concepts- Matrix Functions, Matrix Arithmatic Operations, Presentation of the matrices through Line graph, Bar plot, Heatmap etc.
 
 Tasks that have been completed-
 
